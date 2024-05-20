@@ -64,7 +64,38 @@ Here I am attaching the final working website's screenshot for the reference.
 
 Working Live Project Display:
 
-Home Page
+# Home Page
+![Home](https://github.com/BHARATHWAJ9676/OLD-WORLD-EATS/assets/108009157/49460bfd-9acb-4fb8-a8ab-f200a486cdbe)
+
+# BreakFast
+
+
+# MainCourse
+
+
+
+
+# Deserts
+
+
+# Drinks
+
+
+# Services
+
+
+# Contact
+
+
+# Cart
+
+
+# AboutUs
+
+
+
+
+
 
 
 
