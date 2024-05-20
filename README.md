@@ -43,6 +43,7 @@ Traditional foods are deeply rooted in culture and often reflect the history, ge
 
 
 # Backup policy
+![BackupPolicy](https://github.com/BHARATHWAJ9676/OLD-WORLD-EATS/assets/108009157/3a8f414d-d5bc-49b8-b0e7-4580b7611443)
 
 
 # Azure Bot
