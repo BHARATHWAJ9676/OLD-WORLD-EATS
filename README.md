@@ -68,6 +68,7 @@ Working Live Project Display:
 ![Home](https://github.com/BHARATHWAJ9676/OLD-WORLD-EATS/assets/108009157/49460bfd-9acb-4fb8-a8ab-f200a486cdbe)
 
 # BreakFast
+![Breakfast](https://github.com/BHARATHWAJ9676/OLD-WORLD-EATS/assets/108009157/5ea79177-17c5-4f78-bf06-7554da202e3a)
 
 
 # MainCourse
