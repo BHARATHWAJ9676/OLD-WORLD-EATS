@@ -24,69 +24,37 @@ Traditional foods are deeply rooted in culture and often reflect the history, ge
 
 # Screenshot’s:
 # Storage Account
-![storage account](https://itsram175.github.io/examspotguide/Screenshots/StorageAccount.png)
+
 
 # Static website
-![static website](https://itsram175.github.io/examspotguide/Screenshots/staticWebsite.png)
+
 
 # Container
-![container](https://itsram175.github.io/examspotguide/Screenshots/container.png)
+
 
 # Backup vault
-![backup vault](https://itsram175.github.io/examspotguide/Screenshots/BackupValut.png)
+
 
 # Role assignment
-![role assignment](https://itsram175.github.io/examspotguide/Screenshots/RoleAssignment.png)
+
 
 # Backup policy
-![backup policy](https://itsram175.github.io/examspotguide/Screenshots/BackupPolicy.png)
+
 
 # Azure Bot
-![azure bot](https://itsram175.github.io/examspotguide/Screenshots/AzureBot.png)
+
 
 # Test in web chat
-![test in webchat](https://itsram175.github.io/examspotguide/Screenshots/testInWeb.png)
+
 
 # Resource visualizer
-![resource visualizer](https://itsram175.github.io/examspotguide/Screenshots/resourceVisualizer.png)
+
 
 # Description
-Here I am attaching the final working website's screenshot for the reference.
 
-# Working Live Project Display:
-# Home page
-![home](https://itsram175.github.io/examspotguide/Screenshots/homePage.png)
 
-# Exam Centres
-![Exam Centres](https://itsram175.github.io/examspotguide/Screenshots/examCentres.png)
 
-# About Us
-![About Us](https://itsram175.github.io/examspotguide/Screenshots/aboutUs.png)
-
-# Our Team
-![Our Team](https://itsram175.github.io/examspotguide/Screenshots/ourTeam.png)
-
-# Contact Us
-![contact Us](https://itsram175.github.io/examspotguide/Screenshots/contactUs.png)
-
-# Exam Centres
-![Exam Centres](https://itsram175.github.io/examspotguide/Screenshots/examCentres.png)
-
-# Exam Centre Overview
-![Overview](https://itsram175.github.io/examspotguide/Screenshots/examCentreInfo.png)
-
-# About Exam Centre
-![About Exam Centre](https://itsram175.github.io/examspotguide/Screenshots/aboutCenter.png)
-
-# Exam Centre Photo Gallery
-![Photo Gallery](https://itsram175.github.io/examspotguide/Screenshots/photoGallery.png)
-
-# Route Guide
-![Route Guide](https://itsram175.github.io/examspotguide/Screenshots/routeGuide.png)
-
-# Footer
-![contact page](https://itsram175.github.io/examspotguide/Screenshots/footer.png)
 
 
 # Final Project Statement:
-Our website helps the canditates who are appearing for various competative and entrance examinations in various CBT Examination centres across Hyderabad. We provide valuable information about CBT exam centres such as facilities provided by the exam centres, location of the exam centre, how to reach the exam from key Bus stations and Railways Station in Hyderabad.
+
