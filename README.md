@@ -55,6 +55,7 @@ Traditional foods are deeply rooted in culture and often reflect the history, ge
 
 
 # Resource visualizer
+![Resource Visualizer](https://github.com/BHARATHWAJ9676/OLD-WORLD-EATS/assets/108009157/5a648ef8-019d-45b2-b806-e67eb4c1ef78)
 
 
 # Description
